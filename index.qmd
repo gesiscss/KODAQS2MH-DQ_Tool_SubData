@@ -8,7 +8,6 @@ image: images/tool_icon.png
 image-alt: An icon.
 format:
   html: default
-  pdf: default
 bibliography: references.bib
 biblio-style: apa
 jupyter: python3
